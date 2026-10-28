@@ -2,7 +2,7 @@
 
 -TOM1, 2, 3, 4, SNARE, KICK, CRASH
 
-[배포주소] ()
+[배포주소] (https://fkaus57-collab.github.io/----/)
 ```
 function soundDrum(text) {
   if (text === "w") {
